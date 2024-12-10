@@ -1,0 +1,42 @@
+.container1{
+    margin: 25px auto 20px;
+    padding: 24px;
+    width: 100%;
+    min-height: 300px;
+    max-width: 350px;
+    height: 100%;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+#taskInput{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+#addTaskButton{
+    width: 55px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: rgb(111, 89, 163);
+    border-style: none;
+}
+
+.container2{
+    display: flex;
+    gap: 10px;   
+}
+
+button{
+     background-color: blue;
+    gap: 7px;
+    border-style: none;
+}
+
+ul li{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
